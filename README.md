@@ -164,7 +164,7 @@ python finetune.py
 
 - **Datasets**: Download as described in the [RETFound_MAE benchmarks](https://github.com/rmaphoh/RETFound_MAE/blob/main/BENCHMARK.md).
 - **Weights**: Provided [OneDrive link](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/Ev2HO8d20ZtFrgk940KM5FIBH9w-ZDv94HAhab_cQIuGDQ?e=acOFLb).
-- For further details, see the ATLASS paper for anatomically-aware self-supervision in retinal imaging.
+- For further details, see the ATLASS paper for anatomically-aware self-supervision in retinal imaging (Will add details later).
 
 ---
 
