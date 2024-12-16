@@ -91,7 +91,7 @@ datasets/
 ```
 
 Each dataset should have `train/`, `val/`, and `test/` subfolders, each containing class-labeled images.
-To pretrain the model with self-supervised learning, download the dataset from [Kaggle - EyePACS, APTOS, Messidor](https://www.kaggle.com/datasets/ascanipek/eyepacs-aptos-messidordiabetic-retinopathy).
+To pretrain the model with self-supervised learning, download the dataset from [Kaggle - EyePACS, APTOS, Messidor](https://www.kaggle.com/datasets/ascanipek/eyepacs-aptos-messidor-diabetic-retinopathy).
 Ensure the folder contains approximately **92,000 images** properly organized into `train/` subdirectory.
 
 ---
